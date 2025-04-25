@@ -1,20 +1,15 @@
-Level 0: "Hello, World!" and Basic Syntax
+# Rust Level Based Projects
+
+### Level 0: "Hello, World!" and Basic Syntax
 Project: Simple Calculator
 Focus: Basic syntax, variables, data types, functions, and conditionals.
-
 Learning Goals:
-
-Learn how to set up a Rust project using cargo.
-
-Get familiar with the syntax for defining functions, variables, and using control flow like if, else, and match.
-
-Understand how to use Rust's data types (integers, floats, strings).
-
-Description: Create a command-line calculator that can perform basic arithmetic operations (addition, subtraction, multiplication, division).
-
-Input: User inputs two numbers and an operator (+, -, *, /).
-
-Output: The result of the operation.
+- Learn how to set up a Rust project using cargo.
+- Get familiar with the syntax for defining functions, variables, and using control flow like if, else, and match.
+- Understand how to use Rust's data types (integers, floats, strings).
+- Description: Create a command-line calculator that can perform basic arithmetic operations (addition, subtraction, multiplication, division).
+- Input: User inputs two numbers and an operator (+, -, *, /).
+- Output: The result of the operation.
 
 Level 1: Understanding Ownership and Borrowing
 Project: Simple To-Do List
